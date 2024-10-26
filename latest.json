@@ -1,0 +1,19 @@
+{
+  "version": "0.1.6",
+  "notes": "- Fixed bug 2\r\n- Added feature 3\r\n- Improved performance\r\n- Another test",
+  "pub_date": "2024-10-26T10:49:50.669Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV3FFblRWWkc2amltVU9TTXFmdmIzS3pUY3NiTlBoYVlXUzlXQWE3WFI5SFBaY3RVS21TY01ieDBONks1RWk4cmZVaWFxV081NHl0OXFtTXVHTkFKdndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5OTM5NTkyCWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldi5hcHAudGFyLmd6CnZtV0ZwanBxZDNJRzhPWVMzN3J2M2djUzhOSVVjYzRHNEU1czZNa2k0QXlJZ3VsNGExd283alhGMWlKRjBoUFV5U25FcFBtRndoMHd2dnVoL1R2cUNRPT0K",
+      "url": "https://github.com/QuickbyteHQ/desktop-transfer-dev-releases/releases/download/v0.1.6-2024-10-26-10-44-50/Quickbyte.Transfer.Dev_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV21qcjZheW9FWmduNE5YOXJ3VHRFak1zTEJONU53VS9JQnBnUDVoR2l5YitJRTVadVlSQ2FtWGdyOWx0aWpHdkw5TkRpZWYzQUVhbjR5V21nSkxxRVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5OTM5NzAzCWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldi5hcHAudGFyLmd6CllPM29BTE9nTmVvTVpQSlN6b2hEVXd5WlZldThLbCs5Q3E4V1hFOW9Pb0hLL2JRdG1OMGw1YXdUamR2ZldBVTRrcU9YVEVKMjJQRmtjWmg2NUxTZ0JRPT0K",
+      "url": "https://github.com/QuickbyteHQ/desktop-transfer-dev-releases/releases/download/v0.1.6-2024-10-26-10-44-50/Quickbyte.Transfer.Dev_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV25vRkxiRGxlZ2NvYzg2TGx6aVppek5WTnNxdTJPelpmQ1ZNNjFUSmsycVpzUEdJbHBUbXJlc3BnOVJtRVROKzhaVWZwbFo1WG02K20waVQ0ZXhhT3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5OTM5Nzg1CWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldl8wLjEuNl94NjRfZW4tVVMubXNpLnppcApSSjFCOWYvdnZuSnhEQ2lLa0pYdUl6bm9rbFJicFFDYlRONWRvY01lNkQxQUlzbDB4WUVaUzFsbGJQbi9vNmVyRk1jS0Zyam5SSWVGTnhhUEFWYkpDZz09Cg==",
+      "url": "https://github.com/QuickbyteHQ/desktop-transfer-dev-releases/releases/download/v0.1.6-2024-10-26-10-44-50/Quickbyte.Transfer.Dev_0.1.6_x64_en-US.msi.zip"
+    }
+  }
+}
