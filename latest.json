@@ -1,19 +1,19 @@
 {
-  "version": "0.1.6",
-  "notes": "- Fixed bug 2\r\n- Added feature 3\r\n- Improved performance\r\n- Another test",
-  "pub_date": "2024-10-26T10:49:50.669Z",
+  "version": "1.0.0",
+  "notes": "- Download files for a Quickbyte shared link without requiring an account\r\n- Support for password-protected shared links\r\n- Login to your Quickbyte account and browser your projects\r\n- Upload files to your Quickbyte projects\r\n- Keep track of the progress of upload and download jobs\r\n- Automatically resume incomplete upload or download jobs when you restart the app",
+  "pub_date": "2024-11-11T20:32:05.293Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV3FFblRWWkc2amltVU9TTXFmdmIzS3pUY3NiTlBoYVlXUzlXQWE3WFI5SFBaY3RVS21TY01ieDBONks1RWk4cmZVaWFxV081NHl0OXFtTXVHTkFKdndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5OTM5NTkyCWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldi5hcHAudGFyLmd6CnZtV0ZwanBxZDNJRzhPWVMzN3J2M2djUzhOSVVjYzRHNEU1czZNa2k0QXlJZ3VsNGExd283alhGMWlKRjBoUFV5U25FcFBtRndoMHd2dnVoL1R2cUNRPT0K",
-      "url": "https://github.com/QuickbyteHQ/desktop-transfer-dev-releases/releases/download/v0.1.6-2024-10-26-10-44-50/Quickbyte.Transfer.Dev_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV3VSOVROempOMXFFaDBKazNaakoyNlhZY0JGNmt6UjZUbisxM0ZQMUpvcHZ2U1F5U2MrdWJxeHB4TGRvVFNMUmRhV1c0NDRTTTB6Z2JhYndYZUZsa2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxMzU2ODI3CWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldi5hcHAudGFyLmd6CmVvOWYyazFqb01VNStBMDF5R3BteGwyMkVha09XMUNJenh0NFpqcVN6TDFIM3c1bXcrM3dYN1FNMWZqT2tPNFhBMjVBeC9jU2FFRUt3alozVmQ1S0J3PT0K",
+      "url": "https://github.com/QuickbyteHQ/desktop-transfer-dev-releases/releases/download/v1.0.0-2024-11-11-20-24-37/Quickbyte.Transfer.Dev_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV21qcjZheW9FWmduNE5YOXJ3VHRFak1zTEJONU53VS9JQnBnUDVoR2l5YitJRTVadVlSQ2FtWGdyOWx0aWpHdkw5TkRpZWYzQUVhbjR5V21nSkxxRVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5OTM5NzAzCWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldi5hcHAudGFyLmd6CllPM29BTE9nTmVvTVpQSlN6b2hEVXd5WlZldThLbCs5Q3E4V1hFOW9Pb0hLL2JRdG1OMGw1YXdUamR2ZldBVTRrcU9YVEVKMjJQRmtjWmg2NUxTZ0JRPT0K",
-      "url": "https://github.com/QuickbyteHQ/desktop-transfer-dev-releases/releases/download/v0.1.6-2024-10-26-10-44-50/Quickbyte.Transfer.Dev_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV3JiZFJUM0ZaMVdEeFhIUTRoODZzd2VoZ3Y1U0N0TXpxWGY3L0J3MmVncTg0elRSbG5VeFp5S0JIMVNZT3A1UjU3dkJPcUMvaGdwKzFhYUU1RUFnVHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxMzU2OTYxCWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldi5hcHAudGFyLmd6CjFnOUdrbXhXQXVYRkpuaHp5Qk5vbjJlRGN6YUhLMTFoRERtTGRhOEMvWElISkw3T1h2cDhYM1FzcUtUMG9sR2VWampVSThyM1BkbE9DYk5oaWx3bURRPT0K",
+      "url": "https://github.com/QuickbyteHQ/desktop-transfer-dev-releases/releases/download/v1.0.0-2024-11-11-20-24-37/Quickbyte.Transfer.Dev_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV25vRkxiRGxlZ2NvYzg2TGx6aVppek5WTnNxdTJPelpmQ1ZNNjFUSmsycVpzUEdJbHBUbXJlc3BnOVJtRVROKzhaVWZwbFo1WG02K20waVQ0ZXhhT3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5OTM5Nzg1CWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldl8wLjEuNl94NjRfZW4tVVMubXNpLnppcApSSjFCOWYvdnZuSnhEQ2lLa0pYdUl6bm9rbFJicFFDYlRONWRvY01lNkQxQUlzbDB4WUVaUzFsbGJQbi9vNmVyRk1jS0Zyam5SSWVGTnhhUEFWYkpDZz09Cg==",
-      "url": "https://github.com/QuickbyteHQ/desktop-transfer-dev-releases/releases/download/v0.1.6-2024-10-26-10-44-50/Quickbyte.Transfer.Dev_0.1.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcFBFenpSR1lCV2lCU2dWM2MwWHdhbzVTVk5Pc21BSmdMTk5EOU1RWUNkK0pabkl5bnJGY1JwQ0N4cTlCSm5iNms4eWRRZGdLMDlJL1I0cU9KYVhYYTB0WlpXQlRRVncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxMzU3MTIxCWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIERldl8xLjAuMF94NjRfZW4tVVMubXNpLnppcApLVmRaTTlKVGVlaEVkankwWDFObGMxbTVSM3JoVkM4SnNuODBxTzhQNFAxZUorcXJ0Y24xWjk2SlRoSjJ4TEp5Wkd1VjBVT1BtNEF5NTZXQk4yU2hDQT09Cg==",
+      "url": "https://github.com/QuickbyteHQ/desktop-transfer-dev-releases/releases/download/v1.0.0-2024-11-11-20-24-37/Quickbyte.Transfer.Dev_1.0.0_x64_en-US.msi.zip"
     }
   }
 }
